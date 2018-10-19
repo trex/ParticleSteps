@@ -1,5 +1,7 @@
 # ParticleSteps
 
+![ParticleSteps in action](./demo/particlesteps.gif)
+
 This is a [processing](https://processing.org) sketch that generates verticle 
 particle exposions on key press and mouse click.
 
